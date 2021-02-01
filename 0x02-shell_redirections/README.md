@@ -1,0 +1,1 @@
+This contains all wildcards to easily Redirects I/O in shell
